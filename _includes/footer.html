@@ -1,0 +1,41 @@
+<footer class="site-footer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <h3>About WeSearchAI</h3>
+            <p>{{ site.description }}</p>
+        </div>
+        
+        <div class="footer-section">
+            <h3>Quick Links</h3>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/about/">About Us</a></li>
+                <li><a href="/privacy/">Privacy Policy</a></li>
+                <li><a href="/contact/">Contact Us</a></li>
+                <li><a href="/sitemap.xml">Sitemap</a></li>
+            </ul>
+        </div>
+        
+        <div class="footer-section">
+            <h3>Contact Info</h3>
+            <ul>
+                <li><strong>Email:</strong> {{ site.email }}</li>
+                <li><strong>Phone:</strong> {{ site.phone }}</li>
+            </ul>
+        </div>
+        
+        <div class="footer-section">
+            <h3>Follow Us</h3>
+            <ul>
+                <li><a href="https://twitter.com">Twitter</a></li>
+                <li><a href="https://facebook.com">Facebook</a></li>
+                <li><a href="https://youtube.com">YouTube</a></li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="footer-bottom">
+        <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+        <p>Disclaimer: This website contains affiliate links.</p>
+    </div>
+</footer>
