@@ -11,19 +11,19 @@ layout: default
     <h2>Latest Posts</h2>
     {% for post in site.posts limit:10 %}
         <article class="post-card">
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             <div class="post-meta">
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
                 {% if post.categories %}
                     <span class="post-categories">
                         {% for category in post.categories limit:1 %}
-                            <a href="/category/{{ category | downcase | replace: ' ', '-' }}/">{{ category }}</a>
+                            <a href="{{ '/category/' | append: category | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ category }}</a>
                         {% endfor %}
                     </span>
                 {% endif %}
             </div>
             <p class="excerpt">{{ post.excerpt | truncatewords: 50 }}</p>
-            <a href="{{ post.url }}" class="read-more">Read More →</a>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
         </article>
     {% endfor %}
 </section>

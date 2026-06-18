@@ -15,7 +15,7 @@ layout: default
       {% if page.categories %}
         <span class="post-categories">
           {% for category in page.categories %}
-            <a href="/category/{{ category | downcase | replace: ' ', '-' }}/">{{ category }}</a>
+            <a href="{{ '/category/' | append: category | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ category }}</a>
             {% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </span>
@@ -32,7 +32,7 @@ layout: default
       <div class="post-tags">
         <strong>Tags:</strong>
         {% for tag in page.tags %}
-          <a href="/tag/{{ tag | downcase | replace: ' ', '-' }}/">{{ tag }}</a>
+          <a href="{{ '/tag/' | append: tag | downcase | replace: ' ', '-' | append: '/' | relative_url }}">{{ tag }}</a>
           {% unless forloop.last %}, {% endunless %}
         {% endfor %}
       </div>
