@@ -41,9 +41,8 @@ WeSearchAI is run by a dedicated team of journalists, editors, and content creat
 
 Have a story tip? Want to advertise with us? Have questions? We'd love to hear from you!
 
-**Email**: info@wesearchai.com  
-**Phone**: +1 (XXX) XXX-XXXX  
-**Address**: [Your Business Address]
+**Email**: {{ site.email }}  
+**Phone**: {{ site.phone }}
 
 ## Disclaimer
 
