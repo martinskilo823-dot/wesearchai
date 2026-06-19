@@ -46,6 +46,16 @@ body {
     font-weight: 700;
     color: white;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.site-logo {
+    height: 50px;
+    width: auto;
+    max-width: 150px;
+    object-fit: contain;
 }
 
 .site-title:hover {

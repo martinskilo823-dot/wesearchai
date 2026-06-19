@@ -1,7 +1,10 @@
 <header class="site-header">
     <nav class="site-nav">
         <div class="site-nav-inner">
-            <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+            <a class="site-title" href="{{ '/' | relative_url }}">
+                <img src="{{ '/assets/images/wesearchai.png' | relative_url }}" alt="WeSearchAI Logo" class="site-logo">
+                {{ site.title }}
+            </a>
             <ul class="nav-links">
                 <li><a href="{{ '/' | relative_url }}">Home</a></li>
                 <li><a href="{{ '/archive/' | relative_url }}">Archive</a></li>
