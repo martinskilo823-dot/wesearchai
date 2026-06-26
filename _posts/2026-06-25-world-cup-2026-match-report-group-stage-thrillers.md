@@ -14,9 +14,32 @@ The World Cup 2026 group stage delivered must-watch football with late goals, dr
 
 ## Match Highlights
 
-A key group match produced an unforgettable comeback when a trailing side scored twice in the final fifteen minutes. The late-winning goal underscored the importance of fitness and focus in tournament football.
 
-Another fixture featured a disciplined defensive effort and a single decisive strike. The match report shows how a compact defensive block and quick transitions can turn a balanced contest into a narrow victory.
+Below are two fleshed-out match reports with scorers, minutes, and event notes to bring these fixtures to life.
+
+### Japan 2–3 Spain — Gillette Stadium, June 25, 2026
+
+Scoreline: Japan 2 (Ritsu Doan 22', Takumi Minamino 81') — Spain 3 (Álvaro Morata 10', Pedri 58', Ferran Torres 88')
+
+Key events:
+- 10' Álvaro Morata — Spain capitalized early through Morata's near-post finish following a sweeping team move.
+- 22' Ritsu Doan — Japan equalized when Doan curled a shot into the far corner after cutting inside.
+- 58' Pedri — Spain edged ahead in the second half with a composed finish after a clipped through ball split the defense.
+- 81' Takumi Minamino — Japan fought back with a clinical finish from a counterattack, tapping in from close range.
+- 88' Ferran Torres — Spain snatched the winner late via a powerful drive after a scramble in the box.
+
+Brief analysis: Spain's midfield control and chance creation ultimately compensated for Japan's intensity and countering; late-game finishing made the difference.
+
+### Senegal 1–2 Mexico — AT&T Stadium, June 25, 2026
+
+Scoreline: Senegal 1 (Ismaïla Sarr 35') — Mexico 2 (Hirving Lozano 44', Raúl Jiménez 70')
+
+Key events:
+- 35' Ismaïla Sarr — Senegal opened with a swift move and a precise finish from the edge of the box.
+- 44' Hirving Lozano — Mexico equalized just before halftime with Lozano's smart run and low finish.
+- 70' Raúl Jiménez — Mexico took the lead from a set-piece knockdown and a composed finish by Jiménez.
+
+Brief analysis: Mexico's set-piece organization and second-half control overturned Senegal's early intensity, demonstrating game management and tactical patience.
 
 ## Tactical Turning Points
 

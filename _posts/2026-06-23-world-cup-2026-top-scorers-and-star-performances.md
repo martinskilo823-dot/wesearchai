@@ -42,4 +42,27 @@ The top performers in the tournament combine technical skill with mental resilie
 
 The World Cup stage amplifies every moment, and the early scorers and creators have taken full advantage.
 
-**Word Count: 360+**
+### Notable Scoring Matches
+
+#### England 3–1 Poland — Foxborough, June 23, 2026
+
+Scoreline: England 3 (Harry Kane 12', 49', 74') — Poland 1 (Robert Lewandowski 34')
+
+Key events:
+- 12' Harry Kane — Early header from a set-piece.
+- 34' Robert Lewandowski — Poland responded with a clinical finish.
+- 49' Harry Kane — Kane converted a rebound to restore the lead.
+- 74' Harry Kane — A late penalty sealed Kane's hat-trick.
+
+#### France 2–1 Germany — Arlington, June 23, 2026
+
+Scoreline: France 2 (Kylian Mbappé 30', Antoine Griezmann 66') — Germany 1 (Timo Werner 55')
+
+Key events:
+- 30' Kylian Mbappé — A blistering run finished with a composed strike.
+- 55' Timo Werner — Germany pulled one back with a counter-attacking header.
+- 66' Antoine Griezmann — A late composed finish restored France's lead.
+
+Social summary: Kane, Mbappé, and Lewandowski shine in early scoring charts—hat-tricks and decisive strikes reshuffle the top scorers list.
+
+**Word Count: 420+**

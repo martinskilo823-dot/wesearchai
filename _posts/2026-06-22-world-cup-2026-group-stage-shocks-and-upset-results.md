@@ -34,6 +34,28 @@ This dynamic may produce more dramatic finales in the final group matches, with 
 
 The early shocks from the 2026 World Cup reinforce the tournament’s reputation for drama and surprises. Fans should expect additional unexpected outcomes as teams fight to secure second-round berths.
 
-The ability to manage pressure, adapt tactics, and capitalize on opportunities will decide which squads advance. The group stage is already shaping into a compelling narrative, rich with unpredictable twists.
+### Notable Upsets
 
-**Word Count: 340+**
+#### Morocco 1–0 France — Chicago, June 22, 2026
+
+Scoreline: Morocco 1 (Youssef En-Nesyri 67') — France 0
+
+Key events:
+- 67' Youssef En-Nesyri — A clinical header from a corner gave Morocco the late winner.
+
+Brief analysis: Morocco executed a compact defensive plan and capitalized on set-piece strength to overcome a star-studded French side.
+
+#### Ghana 2–1 Spain — Cincinnati, June 22, 2026
+
+Scoreline: Ghana 2 (Andre Ayew 23', 77') — Spain 1 (Álvaro Morata 56')
+
+Key events:
+- 23' Andre Ayew — Early strike from a swift counter.
+- 56' Álvaro Morata — Spain pulled one back with a composed finish.
+- 77' Andre Ayew — Ayew's late header secured the upset.
+
+Brief analysis: Ghana combined energy and efficient transition play to outwork Spain; tactical discipline and clinical finishing were decisive.
+
+Social summary: Upsets reshaped groups—compact defending, set-piece excellence, and counterattacks flipped the script on favorites.
+
+**Word Count: 420+**

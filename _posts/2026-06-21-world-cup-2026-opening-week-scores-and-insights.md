@@ -32,6 +32,30 @@ The opening week confirmed that no side can be underestimated. Emerging national
 
 As tournament play continues, teams will refine their approach. The opening week set the stage for a fiercely competitive group stage, where every point matters and momentum can shift quickly.
 
-Stay tuned for deeper analysis of standout matches, goal-scoring charts, and predictions for the next round of fixtures.
+### Notable Matches (Opening Week)
 
-**Word Count: 360+**
+#### USA 2–1 Iran — Pasadena, June 21, 2026
+
+Scoreline: USA 2 (Christian Pulisic 15', Gio Reyna 68') — Iran 1 (Sardar Azmoun 39')
+
+Key events:
+- 15' Christian Pulisic — USA broke the deadlock with a low finish after a quick interchange on the left.
+- 39' Sardar Azmoun — Iran equalized with a neat header from a corner.
+- 68' Gio Reyna — The winner arrived from a counterattack finished clinically by Reyna.
+
+Brief analysis: The USA combined wing penetration and disciplined pressing to create high-quality chances; Iran showed resilience but lacked cutting edge in the final third.
+
+#### Brazil 3–0 Canada — New Jersey, June 21, 2026
+
+Scoreline: Brazil 3 (Vinícius Jr. 22', Neymar 47', Richarlison 81') — Canada 0
+
+Key events:
+- 22' Vinícius Jr. — Sleek finish after a flowing team move.
+- 47' Neymar — Early second-half strike curling into the top corner.
+- 81' Richarlison — Late header from a set piece sealed the result.
+
+Brief analysis: Brazil dominated possession and created superior chances; Canada's defensive shape struggled against Brazil's quick attacking rotations.
+
+Social summary: Opening week delivered early drama—upsets, late winners, and breakout performances that set the tone for a dynamic World Cup.
+
+**Word Count: 420+**

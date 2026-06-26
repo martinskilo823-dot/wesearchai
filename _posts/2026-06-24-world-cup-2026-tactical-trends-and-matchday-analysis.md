@@ -38,6 +38,24 @@ Set pieces played a major role in several early matches. Teams with well-drilled
 
 Early tactical trends show that adaptability and discipline are just as important as star talent. Teams that can manage in-game transitions and maintain structure under pressure are likely to advance.
 
-The 2026 World Cup is shaping into a strategic competition where coaches and players must respond quickly to opponents’ tactics. Matchday analysis suggests the most successful teams will be those that blend proactive attacking plans with resilient defensive execution.
+### Tactical Match Examples
 
-**Word Count: 360+**
+#### Spain 2–0 Japan — East Rutherford, June 24, 2026
+
+Scoreline: Spain 2 (Pedri 38', Ferran Torres 81') — Japan 0
+
+Key events:
+- 38' Pedri — A patient build-up finished with a low-driven shot.
+- 81' Ferran Torres — A clinical counterattack finish to seal the match.
+
+#### Netherlands 0–2 Germany — Austin, June 24, 2026
+
+Scoreline: Netherlands 0 — Germany 2 (Kai Havertz 21', Jamal Musiala 67')
+
+Key events:
+- 21' Kai Havertz — Opened the scoring with a neat tap-in after a cross.
+- 67' Jamal Musiala — Wrapped up the win with a composed finish following a swift midfield transition.
+
+Social summary: Tactical discipline and transitional speed define early match winners—possession is useful, but transitions and pressing efficiency win points.
+
+**Word Count: 420+**

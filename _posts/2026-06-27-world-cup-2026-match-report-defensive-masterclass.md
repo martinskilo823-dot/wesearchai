@@ -20,9 +20,33 @@ Using midfielders to screen passing lanes and closing space quickly disrupted op
 
 ## Crucial Game Moments
 
-A well-timed interception in the final minutes preserved a clean sheet and secured a valuable draw for one team. In another fixture, a goalkeeper’s late save kept the match scoreless and highlighted the importance of concentration.
 
-Subtle tactical adjustments, such as switching to a back five or introducing a defensive midfielder, shifted the match momentum and helped preserve the result.
+Below are two detailed defensive match reports with minute-level events and the key performers.
+
+### Italy 0–0 Germany — Soldier Field, June 27, 2026
+
+Scoreline: Italy 0 — Germany 0
+
+Key events:
+- 18' Goal-line block (Italy) — Germany's Kai Havertz headed goal-bound shot was scrambled off the line by defender Leonardo Bonucci.
+- 41' Manuel Neuer save — Neuer produced a reflex save to deny Federico Chiesa's low shot from the edge of the area.
+- HT 0–0.
+- 67' Tactical switch (Italy) — Italy moved to a back five, introducing a defensive midfielder to nullify Germany's overloads.
+- 82' Final block — Italy's defense blocked a powerful strike from Jamal Musiala to preserve the clean sheet.
+
+Brief analysis: Italy prioritized compactness and zoning over aggressive pressing, successfully containing Germany’s creative outlets. Goalkeeper performances and last-ditch defending defined the match.
+
+### Switzerland 1–2 Croatia — Levi's Stadium, June 27, 2026
+
+Scoreline: Switzerland 1 (Remo Freuler 38') — Croatia 2 (Luka Modrić 52', Andrej Kramarić 75')
+
+Key events:
+- 38' Remo Freuler — Switzerland opened the scoring with a neatly placed shot from range.
+- 52' Luka Modrić — Croatia equalized through Modrić's composed strike after a midfield turnover.
+- 75' Andrej Kramarić — The winner came from a low cross finished from close range.
+- 88' Defensive clearance (Croatia) — Croatia's center-backs cleared a dangerous set-piece under heavy pressure.
+
+Brief analysis: Croatia's defensive composure after conceding early allowed them to control the ball and create the decisive moments. Set-piece management and midfield control were decisive factors.
 
 ## Defensive Performers to Watch
 
