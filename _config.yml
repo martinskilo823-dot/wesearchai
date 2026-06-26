@@ -21,6 +21,9 @@ plugins:
 # Google Analytics
 google_analytics: "UA-XXXXXXXXX-X"
 
+# Google Search Console verification
+google_site_verification: "6jsTOtG13iieedPnkqojfbc9DaY8gqMzfh7vSsRJ1nw"
+
 # AdSense
 adsense: "ca-pub-xxxxxxxxxxxxxxxx"
 
