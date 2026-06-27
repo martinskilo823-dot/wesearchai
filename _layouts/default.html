@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html lang="en" data-region="Nigeria" data-focus="nigerian-postal-data">
+<html lang="en" data-region="Global" data-focus="ai-policy-energy-healthcare">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Nigeria Postal Code and Regional Data - {{ page.excerpt | default: site.description }}">
-    <meta name="keywords" content="Nigeria postal codes, Nigerian regional data, Nigeria postal system">
-    <meta name="geo.placename" content="Nigeria">
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description }}">
+    <meta name="keywords" content="artificial general intelligence, AGI, large language models, LLMs, machine learning, political reform, energy transition, healthcare">
+    <meta name="geo.region" content="Global">
     <meta name="google-site-verification" content="6jsTOtG13iieedPnkqojfbc9DaY8gqMzfh7vSsRJ1nw">
     <link rel="icon" type="image/png" href="{{ '/assets/images/wesearchai.png' | relative_url }}">
     <link rel="apple-touch-icon" href="{{ '/assets/images/wesearchai.png' | relative_url }}">
-    <title>{{ page.title | default: site.title }} - Nigeria Postal Codes & Regional Data</title>
+    <title>{{ page.title | default: site.title }} | AI, Policy, Energy & Healthcare Insights</title>
     {% if site.baseurl %}
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% else %}
@@ -17,15 +17,11 @@
     {% endif %}
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
     {% seo %}
-    <!-- Nigeria-Focused Content & SEO Optimization -->
-    <meta property="og:title" content="Nigeria Postal Codes & Regional Data">
-    <meta property="og:description" content="Comprehensive guide to Nigerian postal code system (06xxx-09xxx) and regional organization">
-    <meta property="og:url" content="{{ site.url }}">
-    <!-- Google AdSense - Nigeria Focus -->
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 | default: site.description }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
         crossorigin="anonymous"></script>
-    <!-- Google Analytics -->
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-H44GKDMGZ8"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -35,10 +31,9 @@
       gtag('config', 'G-H44GKDMGZ8');
     </script>
 </head>
-<body data-country="Nigeria">
-    <!-- Primary Focus: Nigeria Postal Codes and Regional Data -->
+<body data-country="Global">
     {% include header.html %}
-    <main class="container" role="main" data-content-region="Nigeria">
+    <main class="container" role="main" data-content-region="Global">
         {{ content }}
     </main>
     {% include footer.html %}
