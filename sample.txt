@@ -160,6 +160,15 @@ the archive navigation bar is not showing on the home page
   here is the logo (C:\Users\User PC\Documents\degreartcode data\BlogUsage\LatestSearchAI\wesearchai-main\assets\images\wesearchai.png)
 
 
+
+
+*******DOmain change to real domain ******
+the github domain have changed to real domain: wesearchai.com
+
+
+
+>>>>observation
+
 it change robots.txt
 from
 Sitemap: https://yourusername.github.io/wesearchai/sitemap.xml
@@ -183,3 +192,84 @@ TO
 
 baseurl: ""
 url: "https://wesearchai.com"
+
+
+
+********question*******
+
+when the home button is clicked, style disappear , every scarter
+
+
+
+****response******
+Fixed! The CSS styling issue is resolved. Here's what was wrong and fixed:
+
+Problem:
+
+Changed to custom domain (baseurl: "")
+CSS path wasn't loading correctly when navigating
+Solution Applied:
+
+Updated default layout to properly handle CSS paths for custom domain
+CSS now loads as /assets/css/style.css (absolute path)
+Works on both custom domain and local testing
+
+
+
+
+
+
+*******question*******
+
+i can not find , Terms & Conditions / Disclaimer: Rules for using your site.
+
+
+=>>>>>>response
+
+
+Found it! ✅ The file is terms.md - it contains your Terms of Service & Disclaimer section.
+
+File Location: C:\Users\User PC\Documents\degreartcode data\BlogUsage\LatestSearchAI\wesearchai-main\terms.md
+
+Content includes:
+
+✅ Agreement to Terms
+✅ Use License
+✅ Disclaimer (section 3)
+✅ Limitations
+✅ Accuracy of Materials
+✅ Materials Subject to Change
+✅ Links Policy
+✅ Modifications
+✅ Governing Law
+To access it on your website:
+
+Local: http://localhost:4000/terms/
+Live: https://wesearchai.com/terms/
+Make sure it's linked in navigation:
+The Terms link should be in your footer or header. Let me verify:
+
+I see the Terms link is missing from your footer. Let me add it:
+
+Perfect! ✅ Done. I've added the Terms & Conditions link to your footer.
+
+Summary:
+
+✅ terms.md file exists at: terms.md
+✅ Contains full Terms of Service & Disclaimer
+✅ Now linked in footer as "Terms & Conditions"
+✅ Accessible at: https://wesearchai.com/terms/
+To view the content:
+Open terms.md file to see all sections including:
+
+Use License
+Disclaimer
+Limitations
+Accuracy statements
+And more...
+
+
+
+
+
+

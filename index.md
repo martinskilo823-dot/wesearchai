@@ -1,5 +1,6 @@
 ---
 layout: default
+title: WeSearchAI - Global News, Football, Health & Politics
 ---
 
 <section class="hero">
