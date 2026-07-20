@@ -2,3 +2,5 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://yourusername.github.io/wesearchai/sitemap.xml
+
+google.com, pub-4142907435370595, DIRECT, f08c47fec0942fa0
