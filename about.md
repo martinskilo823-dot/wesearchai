@@ -50,6 +50,21 @@ The content on WeSearchAI is provided for informational purposes only. While we 
 
 WeSearchAI may contain affiliate links to third-party products and services. We may earn commissions from purchases made through these links at no additional cost to you.
 
+<div class="ad-container">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
+     crossorigin="anonymous"></script>
+<!-- wesearchai3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4142907435370595"
+     data-ad-slot="8569657091"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 ---
 
 Thank you for visiting WeSearchAI. We're committed to being your trusted source for news and information.

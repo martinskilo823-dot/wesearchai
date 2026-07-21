@@ -84,6 +84,21 @@ You agree to indemnify and hold harmless WeSearchAI from any claims, damages, lo
 For questions about these terms, please contact:
 **Email**: legal@wesearchai.com
 
+<div class="ad-container">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
+     crossorigin="anonymous"></script>
+<!-- wesearchai3 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4142907435370595"
+     data-ad-slot="8569657091"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
 ---
 
 These Terms of Service constitute the entire agreement between you and WeSearchAI regarding the use of this website. If any provision is found to be unenforceable, the remaining provisions will remain in full effect.
