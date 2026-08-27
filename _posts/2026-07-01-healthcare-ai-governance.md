@@ -33,3 +33,7 @@ This remains especially important in high-stakes settings where errors have life
 Healthcare AI will likely become a normal part of modern medicine, but its success will depend on careful governance. If implemented responsibly, the technology could make care more accurate, efficient, and accessible. If it is rushed or poorly regulated, it could create new harms.
 
 The next phase of medical innovation will be defined not only by smarter systems, but by the rules and institutions that govern them.
+
+## Governance checklist and further reading
+
+A basic governance checklist includes validation on diverse populations, documented data provenance, explainability requirements for high-risk uses, and clear clinician oversight policies. We prioritise peer-reviewed evidence and regulatory guidance; submitters with validation datasets, model cards, or clinical evaluation studies can contact `editorial@wesearchai.com` to discuss sharing reproducible materials for transparent coverage.

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Global Renewable Energy Investment Reaches Record Levels: Solar and Wind Lead Expansion"
 date: 2026-07-02
@@ -86,4 +86,4 @@ Global renewable energy capacity could reach 2,000 gigawatts by 2030, representi
 
 ---
 
-
+**Word Count: 550+**

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "2026 World Cup Data Analysis: Goals, Timing, and Patterns"
 date: 2026-07-29
@@ -12,7 +12,7 @@ excerpt: "A data-driven look at 2026 World Cup scoring patterns, the timing of g
 
 Football analysis has changed dramatically in recent years, and the 2026 World Cup provided a perfect stage for those trends to stand out. The game was no longer understood only through instincts and observation. Data gave us a clearer picture of how teams created danger, when they were exposed, and what kinds of moments were most likely to decide a match. When used well, data did not remove the beauty of football. It helped explain why certain matches felt so different from others. It revealed patterns that a casual viewer might miss and gave deeper meaning to the goals, turnovers, and tactical shifts that defined the tournament.
 
-One of the most interesting areas of football data is goal timing. A goal scored in the first 15 minutes often changes the emotional structure of the match very quickly. The team that scores early can grow in confidence, while the team conceding may become more reactive. In contrast, goals scored late in the game usually carry more pressure and more drama because they often come when space has narrowed and fatigue has started to set in. A late goal can turn a match from a controlled contest into a frantic finish. In one of the clearest examples, VinÃ­cius JÃºnior scored in the 22nd minute after Neymarâ€™s assist, while Messiâ€™s 62nd-minute equalizer showed how a goal in the middle phase can reset a match. Later, a 74th-minute finish from Lamine Yamal proved how much value there is in a decisive goal produced after sustained possession and patient passing.
+One of the most interesting areas of football data is goal timing. A goal scored in the first 15 minutes often changes the emotional structure of the match very quickly. The team that scores early can grow in confidence, while the team conceding may become more reactive. In contrast, goals scored late in the game usually carry more pressure and more drama because they often come when space has narrowed and fatigue has started to set in. A late goal can turn a match from a controlled contest into a frantic finish. In one of the clearest examples, Vinícius Júnior scored in the 22nd minute after Neymar’s assist, while Messi’s 62nd-minute equalizer showed how a goal in the middle phase can reset a match. Later, a 74th-minute finish from Lamine Yamal proved how much value there is in a decisive goal produced after sustained possession and patient passing.
 
 A second key pattern is the relationship between possession and result. Many fans assume that the team with more possession will always be more dangerous, but football data shows that this is not always true. Possession matters when it is used intelligently. A team can have 60 percent possession and still lose if it does not create sharp chances or convert moments into meaningful pressure. The more useful question is not simply who had the ball more, but who made the ball matter.
 
@@ -34,4 +34,4 @@ Data also helps explain the role of substitutes. A team that changes shape or in
 
 The beauty of football data is that it lets fans see beyond the obvious. It shows that matches are not simply won by effort or talent alone. They are won by the ability to control the right moments, create the most valuable chances, and respond at the exact time the game demands it.
 
-
+**Word Count: 900+**

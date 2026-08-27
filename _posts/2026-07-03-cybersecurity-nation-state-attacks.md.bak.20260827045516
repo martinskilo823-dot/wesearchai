@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Global Cybersecurity Threats Intensify: Nation-State Attacks on Critical Infrastructure"
 date: 2026-07-03
@@ -92,4 +92,4 @@ Global governance frameworks addressing cyber operations norms, acceptable targe
 
 ---
 
-
+**Word Count: 500+**

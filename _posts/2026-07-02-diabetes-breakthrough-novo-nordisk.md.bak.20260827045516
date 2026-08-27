@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Breakthrough in Type 2 Diabetes Treatment: Novo Nordisk's New GLP-1 Analog Shows Unprecedented Results"
 date: 2026-07-02
@@ -68,4 +68,4 @@ Ongoing monitoring post-approval will establish long-term safety and efficacy pa
 
 ---
 
-
+**Word Count: 500+**
