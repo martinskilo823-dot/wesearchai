@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Global Economic Outlook: How Rising Interest Rates Impact World Markets"
 date: 2026-06-13
@@ -66,4 +66,4 @@ Investors must navigate increased uncertainty, adjust portfolio positioning to a
 
 ---
 
-**Word Count: 850+**
+
