@@ -40,4 +40,4 @@ Manchester United's performance serves as a reminder of their potential and thei
 
 **Final Score: Manchester United 3-2 Opposition**
 
-Word Count: 420 | *Extended with more detailed analysis*
+*Article updated with additional analysis and match references.*

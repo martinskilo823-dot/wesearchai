@@ -29,3 +29,7 @@ Even with these gains, limitations remain. Models can still fail on edge cases, 
 Progress toward AGI will likely come in layers. First, systems will become stronger assistants. Next, they will manage more autonomous workflows. Only later will they approach broad, flexible intelligence across domains.
 
 For now, the most important lesson is practical: reasoning improvements are beginning to translate into tools that can support real-world work rather than only impress on demos.
+
+## Research implications and reproducibility
+
+Researchers and practitioners should prioritise transparent benchmark design, open datasets, and reproducible evaluation pipelines to ensure that reported reasoning gains generalise beyond leaderboard settings. If you maintain benchmark datasets, evaluation code, or replication studies, contact `editorial@wesearchai.com` to discuss possible collaboration or publication of technical appendices.
