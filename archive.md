@@ -8,6 +8,12 @@ permalink: /archive/
     <h1>Blog Archive</h1>
     <p class="archive-intro">Browse all {{ site.posts.size }} posts from WeSearchAI</p>
 
+    <p class="archive-description">This archive page is a complete, searchable listing of our published articles, organised chronologically. Use the year and month headings to navigate back through our reporting and analysis. Each entry links to the full article and shows the primary category so you can quickly find related coverage.</p>
+
+    <p class="archive-curation">Editorial highlights: we curate collections and topic bundles on a rolling basis — look for feature tags in post listings or visit our category pages for in-depth coverage (for example: Health, Technology, Sports). If you want a thematic digest (weekly or monthly), email editorial@wesearchai.com and we'll provide a curated feed of recommended articles.</p>
+
+    <p class="archive-tips">Navigation tips: use your browser's find function to search this page, or click a category name on any post to jump to the category landing page. For programmatic access, our RSS feed is available at `/feed.xml` and can be filtered by category using standard feed readers.</p>
+
     <div class="archive-container">
         {% capture currentYear %}{{ 'now' | date: '%Y' }}{% endcapture %}
         {% capture currentMonth %}{% endcapture %}

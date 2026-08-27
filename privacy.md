@@ -62,6 +62,11 @@ Google collects data about site usage. See [Google's Privacy Policy](https://pol
 ### Google AdSense
 AdSense uses cookies for interest-based advertising. See [Google's Privacy Policy](https://policies.google.com/privacy).
 
+### Advertising & Opt-out
+We may work with advertising partners (including Google) to serve ads on the site. These partners may use cookies, web beacons, and similar technologies to collect information about your visits to this and other websites to provide personalized advertising. To learn how Google uses data when you use our partners' sites or apps, see: https://www.google.com/policies/technologies/ads/
+
+If you want to opt out of personalized advertising from Google, you can visit Google Ads Settings: https://adssettings.google.com/ (this does not opt you out of seeing ads, only personalization). For other advertising partners, please refer to their own privacy pages and opt-out tools.
+
 ### Third-Party Links
 Our site may contain links to external websites. We are not responsible for external sites' privacy practices.
 
@@ -104,8 +109,41 @@ For privacy concerns or questions, contact us at:
 
 ## Changes to Policy
 
-We may update this policy periodically. Significant changes will be posted on this page.
+We may update this policy from time to time to reflect changes in our practices or applicable law. When we make material changes we will post a notice on this page with the "Last Updated" date. Continued use of the site after changes indicates acceptance of the updated policy.
 
----
+## Legal Rights and International Visitors
 
-This privacy policy is provided as a template. Ensure compliance with applicable laws including GDPR, CCPA, and other privacy regulations.
+If you are located in the European Economic Area (EEA), the United Kingdom, or other jurisdictions with similar laws, you have rights under data protection laws such as the EU General Data Protection Regulation (GDPR). These rights may include:
+
+- The right to access the personal data we hold about you.
+- The right to correct inaccurate or incomplete data.
+- The right to request deletion (the "right to be forgotten").
+- The right to restrict or object to certain processing, including profiling.
+- The right to portability of your data to another service provider.
+
+For California residents, the California Consumer Privacy Act (CCPA) and the California Privacy Rights Act (CPRA) provide rights including:
+
+- The right to know the categories of personal information we collect and the purposes for which we use it.
+- The right to request deletion of personal information collected about you.
+- The right to opt-out of the sale or sharing of personal information (to the extent applicable).
+- The right to non-discrimination for exercising your privacy rights.
+
+To exercise any of these rights, please contact us at the address below with "Privacy Request" in the subject. We will respond in accordance with applicable law.
+
+## Data Controller and Contact
+
+WeSearchAI is the data controller for personal data processed through this website. To make privacy requests or ask questions about this policy, contact:
+
+Email: info@wesearchai.com
+
+If you are in the EU/EEA and wish to contact our Data Protection Officer (DPO) or designated representative, please email the address above and include your country and request details.
+
+## External Resources
+
+This policy references and follows principles described by recognised authorities and guidance, including:
+
+- Google Publisher & AdSense policies: https://support.google.com/adsense/
+- GDPR guidance: https://gdpr.eu/
+- California privacy (CCPA/CPRA): https://oag.ca.gov/privacy/ccpa
+
+This policy does not constitute legal advice. If you require legal advice about privacy compliance, consult a qualified attorney.

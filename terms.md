@@ -84,6 +84,20 @@ You agree to indemnify and hold harmless WeSearchAI from any claims, damages, lo
 For questions about these terms, please contact:
 **Email**: legal@wesearchai.com
 
+## Editorial Standards and Corrections
+
+WeSearchAI aims to publish accurate, well-sourced content. If you believe an article on WeSearchAI contains factual errors, please contact us with the article URL, a clear description of the issue, and any supporting sources. We will review and, where appropriate, correct the content in a timely manner.
+
+## Copyright, DMCA, and Repeat Infringement
+
+We respect the intellectual property rights of others. If you believe your copyrighted work has been used on this site in a way that constitutes copyright infringement, please provide a written notice containing the information required under the Digital Millennium Copyright Act (DMCA). For guidance, see Google's DMCA information: https://support.google.com/legal/answer/1120734
+
+Send DMCA notices to: legal@wesearchai.com with "DMCA Notice" in the subject and include all required elements (identifying information, statement of good faith, signature, etc.). We will follow applicable law in responding to valid notices.
+
+## Dispute Resolution and Governing Law
+
+These Terms are governed by the laws of the country where WeSearchAI operates. If you are a consumer with protections that cannot be waived by contract, those protections will apply. For other disputes, we will attempt to resolve matters informally and, where necessary, under the applicable courts.
+
 <div class="ad-container">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
      crossorigin="anonymous"></script>
