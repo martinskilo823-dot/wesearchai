@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nutrition Science Update: Latest Dietary Research Findings"
 date: 2026-05-10
@@ -64,12 +64,19 @@ Meal timing research suggests timing effects remain modest. Consistency matters 
 
 Meal frequency and timing matter less than content.
 
+
 ## Whole Foods Emphasis
 
 Whole food consumption continues demonstrating health benefits. Ultra-processed food reduction improves outcomes substantially.
 
 Whole food emphasis represents foundational dietary guidance.
 
+### Evidence and sources
+
+This summary draws on systematic reviews and meta-analyses of dietary patterns, as well as guidance from organisations such as the World Health Organization and national dietary advisory bodies. For readers seeking original studies we recommend searching PubMed or consulting agency guidelines (for example WHO nutrition guidance and FAO reports) and looking for systematic reviews that synthesise the primary literature.
+
+If you are a researcher or clinician with trial data, dietary intervention protocols, or meta-analytic resources to share, email `editorial@wesearchai.com` with links to publications or data so we can reference primary sources and improve methodological transparency.
+
 ---
 
-**Word Count: 320+**
+

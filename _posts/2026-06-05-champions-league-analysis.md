@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Champions League Drama: Latest Matches Reshape Tournament Dynamics"
 date: 2026-06-05
@@ -78,4 +78,4 @@ This evolution toward tactical and strategic pluralism creates a more unpredicta
 
 ---
 
-**Word Count: 750+**
+

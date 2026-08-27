@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Autoimmune Diseases: Understanding the Body's Self-Attack and Treatment Options"
 date: 2026-05-29
@@ -60,4 +60,12 @@ Autoimmune disease affects pregnancy differently by condition. Medication adjust
 
 Many autoimmune diseases enable functional living with treatment. Quality of life improves substantially with proper management. Research promises improved therapies.
 
-**Word Count: 320+**
+## Practical resources and research notes
+
+Patients and clinicians should consult specialty society guidelines and recent systematic reviews for condition-specific management. We reference open-access research where possible and welcome researchers who can share anonymised datasets or validated protocols for inclusion in technical appendices. To submit materials or suggest corrections, contact `editorial@wesearchai.com`.
+
+## Practical takeaway
+
+Effective autoimmune care combines targeted immunological therapies with lifestyle supports, regular monitoring, and collaborative decision-making between patients and specialists. Early specialist involvement often improves long-term outcomes and quality of life.
+
+

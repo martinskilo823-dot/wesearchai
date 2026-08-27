@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nutrition for Athletes: Optimizing Diet for Peak Performance and Recovery"
 date: 2026-06-04
@@ -60,4 +60,8 @@ Individual responses to nutrition strategies vary substantially. Personalized nu
 
 Sustainable nutrition practices support long-term athlete health. Balance between performance optimization and overall wellness proves essential. Lifelong health requires realistic nutritional approaches.
 
-**Word Count: 350+**
+## Practical guidance and resources
+
+Athletes and coaches should work with registered sports dietitians to craft individualized plans that prioritise performance and long-term health. Refer to federation nutrition guidelines and evidence syntheses for supplementation and anti-doping compliance. If you have program evaluations or nutrition protocols to share, email `editorial@wesearchai.com` for possible inclusion in a resources compendium.
+
+

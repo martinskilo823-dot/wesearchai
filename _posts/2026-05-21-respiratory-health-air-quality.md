@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Respiratory Health and Clean Air: New Research on Environmental Impact"
 date: 2026-05-21
@@ -72,4 +72,9 @@ Air quality data transparency enables informed decision-making.
 
 ---
 
-**Word Count: 360+**
+### Data sources and policy guidance
+
+For policy and intervention analysis we consult air-quality monitoring networks, WHO air-quality guidelines, and national environmental agencies. Effective mitigation strategies combine emission reductions, monitoring expansion, and public alerts for high-exposure days. Researchers and agencies with monitoring datasets or intervention evaluations are encouraged to contact `editorial@wesearchai.com` to share data and methods that can improve our reporting and resource recommendations.
+
+
+

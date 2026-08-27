@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Antibiotic Resistance Crisis: Understanding Modern Bacterial Threats and Solutions"
 date: 2026-06-05
@@ -60,4 +60,8 @@ Rapid resistance testing enables targeted therapy selection. Quick diagnosis imp
 
 Population-level interventions reduce resistance transmission. Infection control and sanitation improve hygiene. Public health measures protect vulnerable populations.
 
-**Word Count: 340+**
+## Policy and research priorities
+
+Addressing antibiotic resistance requires coordinated stewardship, surveillance, and investment in rapid diagnostics and novel therapeutics. Policymakers should fund surveillance networks and stewardship programmes while supporting research into alternatives (phage therapy, new antimicrobials). Researchers with open datasets or stewardship evaluations may share materials at `editorial@wesearchai.com` for possible inclusion in our resource summaries.
+
+

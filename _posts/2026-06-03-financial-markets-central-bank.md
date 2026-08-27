@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Financial Markets React to Central Bank Policy: What Investors Should Know"
 date: 2026-06-03
@@ -50,7 +50,7 @@ Energy prices face particular sensitivity to rate changes given their correlatio
 
 ## Credit Market Implications
 
-Credit spreads—differences between risky and safe debt yields—expand and contract based on economic outlook and risk appetite. Tightening cycles typically widen spreads as investors demand higher compensation for default risk. Easier cycles compress spreads as risk appetite increases.
+Credit spreadsâ€”differences between risky and safe debt yieldsâ€”expand and contract based on economic outlook and risk appetite. Tightening cycles typically widen spreads as investors demand higher compensation for default risk. Easier cycles compress spreads as risk appetite increases.
 
 For corporate borrowers, tightening cycles increase financing costs while easier cycles reduce financing costs. This influences corporate capital expenditure decisions and affects long-term economic growth trajectories.
 
@@ -86,4 +86,4 @@ Timing these allocation adjustments represents a significant challenge, as optim
 
 ---
 
-**Word Count: 750+**
+

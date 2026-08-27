@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Mental Health Awareness Campaign: Breaking Stigma and Building Support"
 date: 2026-06-04
@@ -86,4 +86,4 @@ The trajectory toward comprehensive, accessible, culturally-sensitive mental hea
 
 ---
 
-**Word Count: 850+**
+

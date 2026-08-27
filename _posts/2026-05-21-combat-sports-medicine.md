@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Combat Sports Medicine: Protecting Fighter Health in Martial Arts Competition"
 date: 2026-05-21
@@ -60,4 +60,9 @@ Ringside medical personnel provide immediate support. Training staff assess inju
 
 Post-career health assessment detects delayed effects. Neurological monitoring continues after career. Preventive care addresses emerging issues. Long-term health protection sustains wellbeing.
 
-**Word Count: 310+**
+### Research and clinical practice
+
+This overview references consensus statements from sports-medicine societies and recent cohort studies tracking fighters' long-term outcomes. We recommend standardised concussion assessment protocols, longitudinal monitoring for neurocognitive decline, and registries to track outcomes. Clinicians and researchers with registry data, cohort studies, or standardised assessment tools are invited to contact `editorial@wesearchai.com` so we can reference primary evidence and encourage best-practice adoption.
+
+
+

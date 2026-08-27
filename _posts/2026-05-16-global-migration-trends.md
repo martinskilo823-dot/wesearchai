@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Global Migration Trends: Understanding Population Movement Patterns"
 date: 2026-05-16
@@ -72,4 +72,10 @@ Migration pressure management represents important future challenge.
 
 ---
 
-**Word Count: 360+**
+### Data sources and policy notes
+
+This summary references international datasets and policy analyses such as those produced by IOM, UNHCR, and the World Bank. For detailed studies we link to primary datasets and policy papers; readers and policy researchers who can provide datasets, country-level analyses, or source documents are welcome to contact `editorial@wesearchai.com` so we can include source lists and method notes in extended reporting.
+
+---
+
+

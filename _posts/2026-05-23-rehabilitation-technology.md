@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Rehabilitation Technology: Innovations Accelerating Athletic Recovery"
 date: 2026-05-23
@@ -60,4 +60,9 @@ Data analysis optimizes rehabilitation protocols. Progress tracking informs trea
 
 Digital mental health tools support psychological recovery. Virtual support groups provide community. Technology enables accessible psychological care. Integrated support optimizes recovery.
 
-**Word Count: 310+**
+### Research evidence and clinical translation
+
+This article summarises device evaluations, clinical trials, and implementation studies that measure functional outcomes. We prioritise reporting on technologies with peer-reviewed efficacy data and encourage sharing of trial protocols and outcome measures. Clinicians and developers with trial results, validation studies, or implementation guides should contact `editorial@wesearchai.com` so we can link to primary evidence and describe translation pathways from prototype to clinical practice.
+
+
+

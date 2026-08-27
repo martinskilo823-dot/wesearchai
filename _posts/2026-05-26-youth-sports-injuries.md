@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sports Injuries in Youth: Prevention, Treatment, and Safe Return to Play"
 date: 2026-05-26
@@ -60,4 +60,10 @@ Rest following concussion enables recovery. Graduated return-to-play prevents co
 
 Injury anxiety affects recovery. Sports psychologists provide mental support. Confidence restoration enables return to sport.
 
-**Word Count: 310+**
+## Practical guidance and sources
+
+Youth coaches and program directors should emphasise age-appropriate training loads, scheduled rest periods, and accessible injury reporting pathways. Practical resources include guidelines from national sports medicine organisations and paediatric orthopedics associations. We recommend teams adopt simple monitoring metrics (training hours, perceived exertion, injury logs) and work with licensed medical professionals for return-to-play decisions.
+
+If you are a parent, clinician, or coach with case studies or program evaluations, email `editorial@wesearchai.com` — we can link to anonymised summaries to help other programs learn from validated approaches.
+
+

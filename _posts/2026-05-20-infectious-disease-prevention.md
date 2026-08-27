@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Infectious Disease Prevention: Building Immunity and Protecting Community Health"
 date: 2026-05-20
@@ -60,4 +60,10 @@ Personal protective equipment prevents healthcare transmission. Healthcare proto
 
 Prophylactic medications prevent disease development. Antimicrobial treatments address active infection. Pharmaceutical interventions support prevention. Medications enable disease management.
 
-**Word Count: 310+**
+### Evidence and guidance
+
+This overview synthesises public-health guidance, WHO recommendations, and peer-reviewed studies on prevention strategies. Where possible we cite systematic reviews and guidance documents; for national policies consult local public-health agencies. Researchers and public-health practitioners with program evaluations, surveillance datasets, or intervention results are encouraged to contact `editorial@wesearchai.com` with source materials to help us reference primary evidence and clarify applicability.
+
+---
+
+

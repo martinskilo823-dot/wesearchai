@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Music Industry Evolution: Streaming Dominance and Artist Economics"
 date: 2026-05-19
@@ -72,4 +72,9 @@ Platform diversity benefits artists through competitive compensation pressure.
 
 ---
 
-**Word Count: 360+**
+### Data, transparency, and policy
+
+Our analysis references industry reports, platform transparency statements, and royalty-distribution studies. For accurate assessment we consult platform payout disclosures, independent royalty research, and trade reporting. Policy interventions — such as transparency rules for algorithmic recommendation and clearer royalty reporting — influence long-term artist compensation. Researchers or rights-holders with payout studies or platform data are invited to share source materials at `editorial@wesearchai.com` so we can reference primary datasets.
+
+
+

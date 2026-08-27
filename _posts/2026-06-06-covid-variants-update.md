@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "COVID-19 Variants and New Strains: Updated Understanding and Current Precautions"
 date: 2026-06-06
@@ -60,4 +60,8 @@ Global coordination improves variant surveillance and response. International da
 
 Pandemic experience informs future infectious disease preparedness. Rapid vaccine development capabilities improve for future threats. Infrastructure development enhances future response capacity.
 
-**Word Count: 340+**
+## Practical guidance and data sources
+
+Policymakers and public-health leaders should prioritise scalable surveillance, rapid diagnostics, and vaccine infrastructure. We rely on international surveillance reports and peer-reviewed variant analyses for technical coverage; researchers with validated sequencing datasets can contact `editorial@wesearchai.com` to propose data sharing or method appendices that improve transparency.
+
+

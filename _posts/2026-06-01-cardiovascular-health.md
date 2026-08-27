@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Cardiovascular Health Breakthrough: New Treatment Approaches Show Promise"
 date: 2026-06-01
@@ -90,4 +90,4 @@ Population-level prevention approaches addressing cardiovascular risk in communi
 
 ---
 
-**Word Count: 700+**
+

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Climate Change Impacts: Understanding Environmental Crisis Scale"
 date: 2026-05-23
@@ -72,4 +72,4 @@ Public health systems face climate change adaptation challenges.
 
 ---
 
-**Word Count: 380+**
+

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Mental Health in Athletes: Addressing Pressure and Building Psychological Resilience"
 date: 2026-06-07
@@ -60,4 +60,4 @@ Proactive mental health programs prevent crisis development. Early intervention 
 
 Sustained mental health support extends beyond competitive careers. Post-athletic psychological wellbeing requires continued attention. Long-term support ensures lasting psychological health.
 
-**Word Count: 340+**
+

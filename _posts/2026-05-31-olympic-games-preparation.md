@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Olympic Games Preparation: Which Athletes Will Dominate Competition"
 date: 2026-05-31
@@ -60,4 +60,4 @@ However, elite competition inevitably carries injury risks that training modific
 
 ---
 
-**Word Count: 380+**
+

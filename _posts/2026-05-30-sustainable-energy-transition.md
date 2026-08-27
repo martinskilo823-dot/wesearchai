@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sustainable Energy Transition: Global Progress and Remaining Challenges"
 date: 2026-05-30
@@ -78,4 +78,4 @@ Emerging technologies including green hydrogen, advanced nuclear, and carbon cap
 
 ---
 
-**Word Count: 500+**
+
