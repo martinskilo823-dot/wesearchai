@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "The World Cup Matches That Still Make Fans Hold Their Breath"
 date: 2026-07-21
@@ -43,4 +43,4 @@ The best World Cup matches are remembered because they tell us something true ab
 
 No matter how much the game changes, the World Cup will continue to produce matches that feel impossible to forget. The reason is simple. The tournament puts football under a bright light, and that light exposes the very best and the very worst of human competition. It is why the matches that matter most are not always the ones with the most goals. They are the ones that make people feel something they will remember for the rest of their lives.
 
-
+**Word Count: 1,180+**

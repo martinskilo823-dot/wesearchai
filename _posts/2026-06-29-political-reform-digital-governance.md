@@ -33,7 +33,3 @@ Political reform debates now include whether public institutions should publish 
 The long-term future of public reform will likely depend on combining democratic accountability with technical competence. Governments that build institutions around openness, data standards, and citizen participation will have a stronger foundation for trust.
 
 Technology does not replace politics, but it is reshaping the tools through which politics is practiced.
-
-## Practical steps and transparency
-
-Policymakers and civic technologists should prioritise open standards, auditability of algorithmic systems, and inclusive design processes that reduce exclusion. We encourage publication of open data and evaluation studies; if you maintain civic-tech datasets or algorithmic-audit reports, contact `editorial@wesearchai.com` to share reproducible materials for follow-up analysis.

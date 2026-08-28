@@ -27,11 +27,3 @@ The challenge is not to slow AI innovation, but to align it with clean energy de
 The energy transition is not simply about replacing fossil fuels. It is also about building resilient systems that can support economic growth, industrial change, and public welfare. AI can play a role here, but only if it is paired with policy frameworks that prioritize grid reliability and emissions reductions.
 
 As the world moves toward cleaner infrastructure, energy planning will increasingly depend on data-driven decision making. That makes AI a central part of the transition story, even as the sector confronts its own sustainability challenges.
-
-## Policy and operational recommendations
-
-Energy planners and AI system designers should collaborate to align data-centre growth with clean energy targets, invest in energy-efficient model design, and publish energy-use metrics for transparency. Researchers and operators with energy and emissions datasets may contact `editorial@wesearchai.com` to propose reproducible analyses that inform policy recommendations.
-
-## Short summary
-
-Balancing AI-driven efficiency with sustainable infrastructure investments is essential: data-centre operators, grid planners, and policymakers should coordinate to reduce emissions while enabling innovation.

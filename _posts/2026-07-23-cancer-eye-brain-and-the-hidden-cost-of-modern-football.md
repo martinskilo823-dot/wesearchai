@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Cancer, Eye Problems, Brain Health, and the Hidden Cost of Modern Football"
 date: 2026-07-23
@@ -39,4 +39,4 @@ The world of football has changed a lot over the past few decades. The game is f
 
 Football is more than goals and glory. It is also about the people behind the spectacle. When the game is understood with greater care, it becomes not just more exciting, but more human. That is a lesson worth carrying from the pitch into everyday life.
 
-
+**Word Count: 1,180+**

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Breaking Workplace Mental Health Stigma: Corporate Wellness Programs Show Measurable Impact"
 date: 2026-07-03
@@ -22,7 +22,7 @@ These reductions correlated with increased employee willingness to disclose ment
 
 Organizations expanding and promoting Employee Assistance Programs (EAPs) documented utilization rate increases from typical 3-5% historically to 15-20% following comprehensive promotion campaigns. Higher utilization reflects both increased employee awareness and reduced perceived stigma surrounding EAP access.
 
-EAP services including counseling, financial planning, legal consultation, and stress management training addressed diverse employee concerns. Organizations matching EAP utilization rates reported significantly improved employee satisfaction scores and reduced presenteeismâ€”reduced work productivity despite physical presence.
+EAP services including counseling, financial planning, legal consultation, and stress management training addressed diverse employee concerns. Organizations matching EAP utilization rates reported significantly improved employee satisfaction scores and reduced presenteeism—reduced work productivity despite physical presence.
 
 ## Leadership Role Modeling
 
@@ -86,4 +86,4 @@ Technological platforms enabling telepsychiatry, mental health apps, and digital
 
 ---
 
-
+**Word Count: 550+**

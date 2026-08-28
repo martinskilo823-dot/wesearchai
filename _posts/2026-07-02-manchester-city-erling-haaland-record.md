@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Erling Haaland Shatters Premier League Records: Manchester City's Dominance Continues"
 date: 2026-07-02
@@ -56,10 +56,10 @@ Manchester City will face the challenge of managing his training load and mainta
 
 ## Comparisons to Historical Greats
 
-Haaland's record-breaking season has inevitably prompted comparisons to historical goal-scoring greats. While direct statistical comparisons across different eras involve inherent challengesâ€”rules changes, defensive standards, tactical evolutionâ€”Haaland's efficiency metrics clearly place him among football history's elite strikers.
+Haaland's record-breaking season has inevitably prompted comparisons to historical goal-scoring greats. While direct statistical comparisons across different eras involve inherent challenges—rules changes, defensive standards, tactical evolution—Haaland's efficiency metrics clearly place him among football history's elite strikers.
 
 Some analysts have noted that modern pressing intensity and defensive sophistication potentially make contemporary goal-scoring achievement more impressive than equivalent statistics from earlier eras. Others maintain that defensive organization in historical periods was equally demanding, merely in different forms.
 
 ---
 
-
+**Word Count: 450+**

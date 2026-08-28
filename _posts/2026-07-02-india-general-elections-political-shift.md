@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "India's 2026 General Elections: Political Realignment and Policy Priorities Reshape South Asia"
 date: 2026-07-02
@@ -76,4 +76,4 @@ India's role in regional security architecture, technology partnerships, and cli
 
 ---
 
-
+**Word Count: 500+**

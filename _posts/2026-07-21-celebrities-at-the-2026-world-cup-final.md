@@ -1,24 +1,24 @@
-﻿---
+---
 layout: post
 title: "Who Attended the 2026 World Cup Final? Beckham, Bieber, Jay-Z and More"
 date: 2026-07-21
 author: WeSearchAI Team
 categories: [Football, Sports, Entertainment]
 tags: [World Cup Final, Celebrities, MetLife Stadium, Football Culture, Entertainment]
-excerpt: "A look at the biggest celebrity attendees at the 2026 World Cup final, from David Beckham and Jay-Z to TimothÃ©e Chalamet, Kylie Jenner, Tom Cruise and more."
+excerpt: "A look at the biggest celebrity attendees at the 2026 World Cup final, from David Beckham and Jay-Z to Timothée Chalamet, Kylie Jenner, Tom Cruise and more."
 ---
 
 # Who Attended the 2026 World Cup Final? Beckham, Bieber, Jay-Z and More
 
 The 2026 World Cup final was much more than a football match. At MetLife Stadium, the atmosphere felt like a collision between elite sport and mainstream entertainment, with a long list of famous faces turning up to watch the biggest game of the tournament live. The final had the drama of a title decider, but it also carried the energy of a global cultural event.
 
-Among the most talked-about attendees were David Beckham and Victoria Beckham, whose presence added instant star power to the night. Jay-Z and BeyoncÃ© also made a strong impression, bringing their own brand of crossover influence to the stadium. The coupleâ€™s appearance reflected the way the World Cup had grown into a platform that reaches far beyond the pitch.
+Among the most talked-about attendees were David Beckham and Victoria Beckham, whose presence added instant star power to the night. Jay-Z and Beyoncé also made a strong impression, bringing their own brand of crossover influence to the stadium. The couple’s appearance reflected the way the World Cup had grown into a platform that reaches far beyond the pitch.
 
-The crowd was full of people from different corners of entertainment. TimothÃ©e Chalamet and Kylie Jenner were spotted in the stands, while Tom Cruise drew attention with his high-profile arrival. Dwyane Wade and Gabrielle Union, Tom Brady, and Odell Beckham Jr. also made the guest list, showing just how broad the appeal of the final had become.
+The crowd was full of people from different corners of entertainment. Timothée Chalamet and Kylie Jenner were spotted in the stands, while Tom Cruise drew attention with his high-profile arrival. Dwyane Wade and Gabrielle Union, Tom Brady, and Odell Beckham Jr. also made the guest list, showing just how broad the appeal of the final had become.
 
 ## A star-packed night of music and sport
 
-Music played a major role in the build-up and atmosphere around the final. Madonna, Shakira, Justin Bieber, and BTS were all tied to the eventâ€™s bigger entertainment story, and their presence helped turn the night into a true worldwide spectacle. Chris Martin of Coldplay was also part of that scene, adding further recognition to the halftime and ceremony moments that surrounded the match.
+Music played a major role in the build-up and atmosphere around the final. Madonna, Shakira, Justin Bieber, and BTS were all tied to the event’s bigger entertainment story, and their presence helped turn the night into a true worldwide spectacle. Chris Martin of Coldplay was also part of that scene, adding further recognition to the halftime and ceremony moments that surrounded the match.
 
 The celebrity turnout was not limited to one industry. Actors and media personalities such as Jon Hamm, Julia Garner, and Gayle King were also seen in the crowd, while athletes from other sports brought their own visibility to the event. Carlos Alcaraz, Jalen Brunson, Draymond Green, James Harden, and other high-profile names helped make the final feel like a meeting point for sport, fashion, and pop culture.
 
@@ -33,8 +33,8 @@ The audience also reflected the global reach of the tournament. A match between 
 Some of the biggest names reported at the game included:
 
 - David Beckham and Victoria Beckham
-- Jay-Z and BeyoncÃ©
-- TimothÃ©e Chalamet and Kylie Jenner
+- Jay-Z and Beyoncé
+- Timothée Chalamet and Kylie Jenner
 - Tom Cruise
 - Dwyane Wade and Gabrielle Union
 - Tom Brady
@@ -56,9 +56,10 @@ Some of the biggest names reported at the game included:
 
 In the end, the 2026 World Cup final was remembered not just for the action on the field, but also for the celebrity energy around it. The star-studded crowd helped turn the night into a true global event, one that blended football drama with the kind of glamour and attention that only the biggest sporting occasions can create.
 
+
 - David Beckham and Victoria Beckham
-- Jay-Z and BeyoncÃ©
-- TimothÃ©e Chalamet and Kylie Jenner
+- Jay-Z and Beyoncé
+- Timothée Chalamet and Kylie Jenner
 - Tom Cruise
 - Dwyane Wade and Gabrielle Union
 - Tom Brady
@@ -77,4 +78,3 @@ In the end, the 2026 World Cup final was remembered not just for the action on t
 - Gayle King
 
 In the end, the 2026 World Cup final was remembered not just for the action on the field, but also for the celebrity energy around it. The star-studded crowd helped turn the night into a true global event, one that blended football drama with the kind of glamour and attention that only the biggest sporting occasions can create.
-
