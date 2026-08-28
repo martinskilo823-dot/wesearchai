@@ -14,7 +14,10 @@ Get-ChildItem -Path $root -Recurse -Include *.md | Where-Object {
     # Remove repeated blank lines
     $text = [regex]::Replace($text, '(\r?\n){3,}', "`r`n`r`n")
     if ($text -ne $orig) {
-        $bak = "$path.bak.$timestamp"
+        $backupDir = Join-Path -Path $root -ChildPath 'adminUseOnly\backups'
+        if (-not (Test-Path -Path $backupDir)) { New-Item -ItemType Directory -Path $backupDir -Force | Out-Null }
+        $bakName = "$($_.Name).bak.$timestamp"
+        $bak = Join-Path -Path $backupDir -ChildPath $bakName
         Copy-Item -Path $path -Destination $bak -Force
         Set-Content -Path $path -Value $text -Encoding UTF8
         Write-Output "CLEANED|$path"

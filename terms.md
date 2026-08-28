@@ -98,21 +98,5 @@ Send DMCA notices to: legal@wesearchai.com with "DMCA Notice" in the subject and
 
 These Terms are governed by the laws of the country where WeSearchAI operates. If you are a consumer with protections that cannot be waived by contract, those protections will apply. For other disputes, we will attempt to resolve matters informally and, where necessary, under the applicable courts.
 
-<div class="ad-container">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
-     crossorigin="anonymous"></script>
-<!-- wesearchai3 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4142907435370595"
-     data-ad-slot="8569657091"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
----
 
 These Terms of Service constitute the entire agreement between you and WeSearchAI regarding the use of this website. If any provision is found to be unenforceable, the remaining provisions will remain in full effect.

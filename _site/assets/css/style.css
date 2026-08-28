@@ -222,6 +222,31 @@ main {
     margin: 2rem 0;
     text-align: center;
     min-height: 250px;
+    border: 1px solid #e6eef4;
+    box-shadow: 0 2px 6px rgba(20,30,40,0.04);
+}
+
+/* Site Ad wrapper and label */
+.site-ad {
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+}
+.site-ad__inner {
+    max-width: 980px;
+    width: 100%;
+    text-align: center;
+    padding: 10px; /* keep 10px space between border and ad to avoid clipping */
+}
+.site-ad__label {
+    font-size: 0.85rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+.site-ad .ad-container {
+    padding: 12px; /* slightly larger inner padding for responsive ads */
+    border-radius: 8px;
 }
 
 /* Related Posts */

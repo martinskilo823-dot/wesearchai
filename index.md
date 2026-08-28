@@ -34,6 +34,23 @@ title: WeSearchAI - Global News, Football, Health & Politics
     <p>Sign up for our occasional newsletter for concise weekly briefings and highlights across categories. Subscribe from the footer or visit our <a href="/contact/">Contact</a> page for publisher updates.</p>
 </section>
 
+<div class="site-ad" role="complementary" aria-label="Advertisement">
+    <div class="site-ad__inner">
+        <div class="site-ad__label">Advertisement</div>
+        <div class="ad-container" style="margin: 0 auto; max-width: 980px; text-align: center;">
+            <ins class="adsbygoogle"
+                 style="display:block"
++                data-ad-client="ca-pub-4142907435370595"
+                data-ad-slot="7985268934"
+                data-ad-format="auto"
+                data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        </div>
+    </div>
+</div>
+
 <section class="posts-list">
     <h2>Latest Posts</h2>
     {% for post in site.posts limit:10 %}
@@ -54,21 +71,5 @@ title: WeSearchAI - Global News, Football, Health & Politics
         </article>
     {% endfor %}
 </section>
-
-<!-- Homepage Ad -->
-<div class="ad-container">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
-     crossorigin="anonymous"></script>
-<!-- wesearchai 2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4142907435370595"
-     data-ad-slot="7985268934"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
 
 <!-- Pagination would go here with jekyll-paginate -->

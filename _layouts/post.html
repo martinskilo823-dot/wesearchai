@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<div class="site-ad" role="complementary" aria-label="Advertisement">
+  <div class="site-ad__inner">
+    <div class="site-ad__label">Advertisement</div>
+    <div class="ad-container" style="margin: 0 auto 1.5rem; max-width: 980px; text-align: center;">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-4142907435370595"
+        data-ad-slot="7667638964"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+  </div>
+</div>
+
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -27,6 +44,8 @@ layout: default
     {{ content }}
   </div>
 
+  
+
   {% if page.tags %}
     <footer class="post-footer">
       <div class="post-tags">
@@ -39,22 +58,6 @@ layout: default
     </footer>
   {% endif %}
 </article>
-
-<!-- Inline Ad Space -->
-<div class="ad-container">
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4142907435370595"
-     crossorigin="anonymous"></script>
-<!-- wesearch ai -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4142907435370595"
-     data-ad-slot="7667638964"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
 
 <!-- Related Posts -->
 <section class="related-posts">

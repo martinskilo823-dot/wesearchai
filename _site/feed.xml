@@ -4,7 +4,7 @@
     <title>WeSearchAI</title>
     <description>WeSearchAI is a global research and news platform covering football and sports reports, health services and healthcare news, politics, business, entertainment, and world affairs.
 </description>
-    <link>http://localhost:4000</link>
+    <link>https://www.wesearchai.com</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
